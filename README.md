@@ -5,7 +5,7 @@ Game Guess the words ( language: C++ )
 ### C++ 
  ___
 Game Guess the words<br>
-Open source for C ++ programming language enthusiasts
+Open source for C ++ programming language enthusiasts<br>
 Console App
 
 
