@@ -34,4 +34,7 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of technology limitations are meaningless to me
 <br>
 
-### @amirdecoder
+### Why open source ?
+___
+
+I left the resource open so you can upgrade it
